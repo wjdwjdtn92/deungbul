@@ -1,8 +1,9 @@
 {
-  "name": "@30k/boilerplate",
+  "name": "@deungbul/workspaces",
   "private": true,
   "workspaces": [
-    "app"
+    "app",
+    "packages/*"
   ],
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
